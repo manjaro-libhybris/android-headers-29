@@ -8,7 +8,7 @@ url="https://github.com/droidian/android-headers-29"
 license=('Apache')
 makedepends=('git' 'libffi')
 provides=('android-headers')
-conflicts=('android-headers-28')
+conflicts=('android-headers-28' 'android-headers-30')
 source=('android-headers::git+https://github.com/droidian/android-headers-29')
 md5sums=('SKIP')
 
